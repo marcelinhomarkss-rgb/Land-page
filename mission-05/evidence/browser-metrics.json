@@ -1,0 +1,668 @@
+[
+ {
+  "n": 1,
+  "theme": "dark",
+  "size": "desktop",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 60.5,
+   "y": 608.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 608.9,
+   "bottom": 664.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 193, 7)"
+  ],
+  "panel": {
+   "x": 786.5,
+   "y": 306,
+   "w": 593,
+   "h": 562.3,
+   "top": 306,
+   "bottom": 868.3
+  },
+  "performance": "{\"cls\":0.0027057929312414267,\"longTasks\":1,\"longTaskMs\":87,\"lcp\":152,\"viewport\":[1440,900],\"reduced\":false}",
+  "viewport": [
+   1440,
+   900
+  ]
+ },
+ {
+  "n": 1,
+  "theme": "dark",
+  "size": "tablet",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 32.3,
+   "y": 543.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 543.9,
+   "bottom": 599.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 193, 7)"
+  ],
+  "panel": {
+   "x": 32.3,
+   "y": 753.9,
+   "w": 703.5,
+   "h": 566.3,
+   "top": 753.9,
+   "bottom": 1320.2
+  },
+  "performance": "{\"cls\":0.00961966929025948,\"longTasks\":0,\"longTaskMs\":0,\"lcp\":136,\"viewport\":[768,1024],\"reduced\":false}",
+  "viewport": [
+   768,
+   1024
+  ]
+ },
+ {
+  "n": 1,
+  "theme": "dark",
+  "size": "mobile",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 20,
+   "y": 503,
+   "w": 350,
+   "h": 56,
+   "top": 503,
+   "bottom": 559
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 193, 7)"
+  ],
+  "panel": {
+   "x": 20,
+   "y": 743,
+   "w": 350,
+   "h": 601.5,
+   "top": 743,
+   "bottom": 1344.5
+  },
+  "performance": "{\"cls\":0,\"longTasks\":1,\"longTaskMs\":76,\"lcp\":128,\"viewport\":[390,844],\"reduced\":false}",
+  "viewport": [
+   390,
+   844
+  ]
+ },
+ {
+  "n": 1,
+  "theme": "light",
+  "size": "desktop",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 60.5,
+   "y": 628.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 628.9,
+   "bottom": 684.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 193, 7)"
+  ],
+  "panel": {
+   "x": 786.5,
+   "y": 306,
+   "w": 593,
+   "h": 562.3,
+   "top": 306,
+   "bottom": 868.3
+  },
+  "performance": "{\"cls\":0.002997599325716414,\"longTasks\":1,\"longTaskMs\":97,\"lcp\":160,\"viewport\":[1440,900],\"reduced\":false}",
+  "viewport": [
+   1440,
+   900
+  ]
+ },
+ {
+  "n": 1,
+  "theme": "light",
+  "size": "tablet",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 32.3,
+   "y": 563.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 563.9,
+   "bottom": 619.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 193, 7)"
+  ],
+  "panel": {
+   "x": 32.3,
+   "y": 773.9,
+   "w": 703.5,
+   "h": 566.3,
+   "top": 773.9,
+   "bottom": 1340.2
+  },
+  "performance": "{\"cls\":0.009829707210883498,\"longTasks\":1,\"longTaskMs\":81,\"lcp\":140,\"viewport\":[768,1024],\"reduced\":false}",
+  "viewport": [
+   768,
+   1024
+  ]
+ },
+ {
+  "n": 1,
+  "theme": "light",
+  "size": "mobile",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 20,
+   "y": 519,
+   "w": 350,
+   "h": 56,
+   "top": 519,
+   "bottom": 575
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 193, 7)"
+  ],
+  "panel": {
+   "x": 20,
+   "y": 759,
+   "w": 350,
+   "h": 601.5,
+   "top": 759,
+   "bottom": 1360.5
+  },
+  "performance": "{\"cls\":0,\"longTasks\":1,\"longTaskMs\":69,\"lcp\":120,\"viewport\":[390,844],\"reduced\":false}",
+  "viewport": [
+   390,
+   844
+  ]
+ },
+ {
+  "n": 2,
+  "theme": "dark",
+  "size": "desktop",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 60.5,
+   "y": 608.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 608.9,
+   "bottom": 664.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 752,
+   "y": 302.5,
+   "w": 632.5,
+   "h": 572.7,
+   "top": 302.5,
+   "bottom": 875.2
+  },
+  "performance": "{\"cls\":0.0027726079777925594,\"longTasks\":1,\"longTaskMs\":82,\"lcp\":164,\"viewport\":[1440,900],\"reduced\":false}",
+  "viewport": [
+   1440,
+   900
+  ]
+ },
+ {
+  "n": 2,
+  "theme": "dark",
+  "size": "tablet",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 32.3,
+   "y": 543.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 543.9,
+   "bottom": 599.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 32.3,
+   "y": 753.9,
+   "w": 703.5,
+   "h": 566.3,
+   "top": 753.9,
+   "bottom": 1320.2
+  },
+  "performance": "{\"cls\":0.00961966929025948,\"longTasks\":1,\"longTaskMs\":67,\"lcp\":136,\"viewport\":[768,1024],\"reduced\":false}",
+  "viewport": [
+   768,
+   1024
+  ]
+ },
+ {
+  "n": 2,
+  "theme": "dark",
+  "size": "mobile",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 20,
+   "y": 503,
+   "w": 350,
+   "h": 56,
+   "top": 503,
+   "bottom": 559
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 20,
+   "y": 743,
+   "w": 350,
+   "h": 601.5,
+   "top": 743,
+   "bottom": 1344.5
+  },
+  "performance": "{\"cls\":0,\"longTasks\":1,\"longTaskMs\":51,\"lcp\":104,\"viewport\":[390,844],\"reduced\":false}",
+  "viewport": [
+   390,
+   844
+  ]
+ },
+ {
+  "n": 2,
+  "theme": "light",
+  "size": "desktop",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 60.5,
+   "y": 628.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 628.9,
+   "bottom": 684.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 752,
+   "y": 302.5,
+   "w": 632.5,
+   "h": 572.7,
+   "top": 302.5,
+   "bottom": 875.2
+  },
+  "performance": "{\"cls\":0.09184314119230408,\"longTasks\":1,\"longTaskMs\":85,\"lcp\":164,\"viewport\":[1440,900],\"reduced\":false}",
+  "viewport": [
+   1440,
+   900
+  ]
+ },
+ {
+  "n": 2,
+  "theme": "light",
+  "size": "tablet",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 32.3,
+   "y": 563.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 563.9,
+   "bottom": 619.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 32.3,
+   "y": 773.9,
+   "w": 703.5,
+   "h": 566.3,
+   "top": 773.9,
+   "bottom": 1340.2
+  },
+  "performance": "{\"cls\":0.008276303065940738,\"longTasks\":0,\"longTaskMs\":0,\"lcp\":140,\"viewport\":[768,1024],\"reduced\":false}",
+  "viewport": [
+   768,
+   1024
+  ]
+ },
+ {
+  "n": 2,
+  "theme": "light",
+  "size": "mobile",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 20,
+   "y": 519,
+   "w": 350,
+   "h": 56,
+   "top": 519,
+   "bottom": 575
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 20,
+   "y": 759,
+   "w": 350,
+   "h": 601.5,
+   "top": 759,
+   "bottom": 1360.5
+  },
+  "performance": "{\"cls\":0,\"longTasks\":1,\"longTaskMs\":114,\"lcp\":172,\"viewport\":[390,844],\"reduced\":false}",
+  "viewport": [
+   390,
+   844
+  ]
+ },
+ {
+  "n": 3,
+  "theme": "dark",
+  "size": "desktop",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 60.5,
+   "y": 608.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 608.9,
+   "bottom": 664.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 740.8,
+   "y": 306,
+   "w": 638.8,
+   "h": 562.3,
+   "top": 306,
+   "bottom": 868.3
+  },
+  "performance": "{\"cls\":0.0029841702433770576,\"longTasks\":1,\"longTaskMs\":73,\"lcp\":136,\"viewport\":[1440,900],\"reduced\":false}",
+  "viewport": [
+   1440,
+   900
+  ]
+ },
+ {
+  "n": 3,
+  "theme": "dark",
+  "size": "tablet",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 32.3,
+   "y": 543.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 543.9,
+   "bottom": 599.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 32.3,
+   "y": 753.9,
+   "w": 703.5,
+   "h": 566.3,
+   "top": 753.9,
+   "bottom": 1320.2
+  },
+  "performance": "{\"cls\":0.00806626514531672,\"longTasks\":0,\"longTaskMs\":0,\"lcp\":124,\"viewport\":[768,1024],\"reduced\":false}",
+  "viewport": [
+   768,
+   1024
+  ]
+ },
+ {
+  "n": 3,
+  "theme": "dark",
+  "size": "mobile",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 20,
+   "y": 503,
+   "w": 350,
+   "h": 56,
+   "top": 503,
+   "bottom": 559
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 20,
+   "y": 743,
+   "w": 350,
+   "h": 601.5,
+   "top": 743,
+   "bottom": 1344.5
+  },
+  "performance": "{\"cls\":0,\"longTasks\":1,\"longTaskMs\":61,\"lcp\":120,\"viewport\":[390,844],\"reduced\":false}",
+  "viewport": [
+   390,
+   844
+  ]
+ },
+ {
+  "n": 3,
+  "theme": "light",
+  "size": "desktop",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 60.5,
+   "y": 672.1,
+   "w": 269.9,
+   "h": 56,
+   "top": 672.1,
+   "bottom": 728.1
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 740.8,
+   "y": 306,
+   "w": 638.8,
+   "h": 562.3,
+   "top": 306,
+   "bottom": 868.3
+  },
+  "performance": "{\"cls\":0.0029727063925995586,\"longTasks\":1,\"longTaskMs\":75,\"lcp\":144,\"viewport\":[1440,900],\"reduced\":false}",
+  "viewport": [
+   1440,
+   900
+  ]
+ },
+ {
+  "n": 3,
+  "theme": "light",
+  "size": "tablet",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 32.3,
+   "y": 563.9,
+   "w": 269.9,
+   "h": 56,
+   "top": 563.9,
+   "bottom": 619.9
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 32.3,
+   "y": 773.9,
+   "w": 703.5,
+   "h": 566.3,
+   "top": 773.9,
+   "bottom": 1340.2
+  },
+  "performance": "{\"cls\":0.00981173012405634,\"longTasks\":0,\"longTaskMs\":0,\"lcp\":172,\"viewport\":[768,1024],\"reduced\":false}",
+  "viewport": [
+   768,
+   1024
+  ]
+ },
+ {
+  "n": 3,
+  "theme": "light",
+  "size": "mobile",
+  "reduced": false,
+  "playing": false,
+  "animations": 0,
+  "status": "Recomendação disponível",
+  "overflow": false,
+  "collision": false,
+  "cta": {
+   "x": 20,
+   "y": 519,
+   "w": 350,
+   "h": 56,
+   "top": 519,
+   "bottom": 575
+  },
+  "headingColors": [
+   "rgb(0, 212, 255)",
+   "rgb(139, 125, 255)",
+   "rgb(255, 45, 155)"
+  ],
+  "panel": {
+   "x": 20,
+   "y": 759,
+   "w": 350,
+   "h": 601.5,
+   "top": 759,
+   "bottom": 1360.5
+  },
+  "performance": "{\"cls\":0,\"longTasks\":1,\"longTaskMs\":68,\"lcp\":112,\"viewport\":[390,844],\"reduced\":false}",
+  "viewport": [
+   390,
+   844
+  ]
+ }
+]

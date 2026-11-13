@@ -1,0 +1,57 @@
+[
+  {
+    "antipattern": "nested-cards",
+    "name": "Nested cards",
+    "description": "Cards inside cards create visual noise and excessive depth. Flatten the hierarchy — use spacing, typography, and dividers instead of nesting containers.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "C:\\Users\\Marks\\Desktop\\Land-Hero-Lab\\concept-n1\\index.html",
+    "line": 0,
+    "snippet": "Card inside card (div)",
+    "advisory": true
+  },
+  {
+    "antipattern": "nested-cards",
+    "name": "Nested cards",
+    "description": "Cards inside cards create visual noise and excessive depth. Flatten the hierarchy — use spacing, typography, and dividers instead of nesting containers.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "C:\\Users\\Marks\\Desktop\\Land-Hero-Lab\\concept-n2\\index.html",
+    "line": 0,
+    "snippet": "Card inside card (div)",
+    "advisory": true
+  },
+  {
+    "antipattern": "shape-assembled-illustration",
+    "name": "Shape-assembled illustration",
+    "description": "A large inline SVG that builds a pictorial scene from a pile of primitive shapes reads as placeholder clip art, not illustration. Icons, logos, and data graphics are fine at their scale; a hero-sized visual deserves real artwork, a photograph, or a deliberately drawn graphic.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "C:\\Users\\Marks\\Desktop\\Land-Hero-Lab\\concept-n2\\index.html",
+    "line": 0,
+    "snippet": "inline <svg> scene: 23 primitive shapes, ~520x520px, 3 fill colors",
+    "advisory": true
+  },
+  {
+    "antipattern": "codex-grid-background",
+    "name": "Decorative grid-line background",
+    "description": "A decorative grid or line-field background drawn with hairline linear-gradient layers tiled by a fixed pixel cell is a recurring generated-UI signature. Reserve grid overlays for actual canvas, map, blueprint, or measurement surfaces; elsewhere use product structure or a plain surface.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "C:\\Users\\Marks\\Desktop\\Land-Hero-Lab\\concept-n2\\index.html",
+    "line": 0,
+    "snippet": "two-axis grid-line gradient background",
+    "advisory": true
+  },
+  {
+    "antipattern": "nested-cards",
+    "name": "Nested cards",
+    "description": "Cards inside cards create visual noise and excessive depth. Flatten the hierarchy — use spacing, typography, and dividers instead of nesting containers.",
+    "severity": "advisory",
+    "category": "slop",
+    "file": "C:\\Users\\Marks\\Desktop\\Land-Hero-Lab\\concept-n3\\index.html",
+    "line": 0,
+    "snippet": "Card inside card (div)",
+    "advisory": true
+  }
+]

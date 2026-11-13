@@ -1,0 +1,92 @@
+[
+ {
+  "n": 1,
+  "test": "theme click",
+  "theme": "light",
+  "changed": true
+ },
+ {
+  "n": 1,
+  "test": "focus CTA",
+  "outline": "solid"
+ },
+ {
+  "n": 1,
+  "test": "modules keyboard",
+  "open": true,
+  "count": 11
+ },
+ {
+  "n": 1,
+  "test": "replay sequence",
+  "playing": true,
+  "status": "Contexto → recomendação"
+ },
+ {
+  "n": 1,
+  "test": "reduced motion interaction",
+  "state": "Sequência completa · sem movimento",
+  "animation": "none",
+  "animations": 0
+ },
+ {
+  "n": 2,
+  "test": "theme click",
+  "theme": "light",
+  "changed": true
+ },
+ {
+  "n": 2,
+  "test": "focus CTA",
+  "outline": "solid"
+ },
+ {
+  "n": 2,
+  "test": "modules keyboard",
+  "open": true,
+  "count": 11
+ },
+ {
+  "n": 2,
+  "test": "replay sequence",
+  "playing": true,
+  "status": "Contexto → recomendação"
+ },
+ {
+  "n": 2,
+  "test": "reduced motion interaction",
+  "state": "Sequência completa · sem movimento",
+  "animation": "none",
+  "animations": 0
+ },
+ {
+  "n": 3,
+  "test": "theme click",
+  "theme": "light",
+  "changed": true
+ },
+ {
+  "n": 3,
+  "test": "focus CTA",
+  "outline": "solid"
+ },
+ {
+  "n": 3,
+  "test": "modules keyboard",
+  "open": true,
+  "count": 11
+ },
+ {
+  "n": 3,
+  "test": "replay sequence",
+  "playing": true,
+  "status": "Contexto → recomendação"
+ },
+ {
+  "n": 3,
+  "test": "reduced motion interaction",
+  "state": "Sequência completa · sem movimento",
+  "animation": "none",
+  "animations": 0
+ }
+]
