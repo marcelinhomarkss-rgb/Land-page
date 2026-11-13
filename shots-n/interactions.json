@@ -1,0 +1,143 @@
+[
+  {
+    "name": "n1",
+    "interact": {
+      "initialTheme": "dark",
+      "rmStatic": false,
+      "toast": {
+        "on": true,
+        "text": "CTA demonstrativo do laboratório: nenhuma ação real é executada nesta página."
+      },
+      "themeAfterClick": "light",
+      "themeChanged": true,
+      "themeRestored": true,
+      "focused": true,
+      "focusStyle": {
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "boxShadow": "oklab(0.667456 0.250572 -0.0201303 / 0.85) 0px 16px 30px -16px"
+      },
+      "animations": 40,
+      "overflowX": false,
+      "plate": {
+        "top": 504.5,
+        "bottom": 878.9,
+        "left": 648.2,
+        "right": 1425.8,
+        "w": 777.6,
+        "h": 374.5
+      },
+      "hero": {
+        "top": 76,
+        "bottom": 900
+      },
+      "parallax": {
+        "pxBefore": "0",
+        "pxAfter": "0.320",
+        "spBefore": "0",
+        "spAfter": "0.667",
+        "scrolled": true,
+        "pointerFine": true
+      }
+    },
+    "reducedMotion": {
+      "rm": true,
+      "animations": 0,
+      "theme": "dark"
+    }
+  },
+  {
+    "name": "n2",
+    "interact": {
+      "initialTheme": "dark",
+      "rmStatic": false,
+      "toast": {
+        "on": true,
+        "text": "CTA demonstrativo do laboratório: nenhuma ação real é executada nesta página."
+      },
+      "themeAfterClick": "light",
+      "themeChanged": true,
+      "themeRestored": true,
+      "focused": true,
+      "focusStyle": {
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "boxShadow": "rgba(255, 45, 155, 0.85) 0px 24px 40px -14px, rgba(0, 212, 255, 0.5) 0px 0px 34p"
+      },
+      "animations": 54,
+      "overflowX": false,
+      "plate": {
+        "top": 158,
+        "bottom": 578,
+        "left": 668,
+        "right": 1474.3,
+        "w": 806.3,
+        "h": 420.1
+      },
+      "hero": {
+        "top": 76,
+        "bottom": 900
+      },
+      "parallax": {
+        "pxBefore": "0",
+        "pxAfter": "0.320",
+        "spBefore": "0",
+        "spAfter": "0.667",
+        "scrolled": true,
+        "pointerFine": true
+      }
+    },
+    "reducedMotion": {
+      "rm": true,
+      "animations": 0,
+      "theme": "dark"
+    }
+  },
+  {
+    "name": "n3",
+    "interact": {
+      "initialTheme": "dark",
+      "rmStatic": false,
+      "toast": {
+        "on": true,
+        "text": "CTA demonstrativo do laboratório: nenhuma ação real é executada nesta página."
+      },
+      "themeAfterClick": "light",
+      "themeChanged": true,
+      "themeRestored": true,
+      "focused": true,
+      "focusStyle": {
+        "outlineStyle": "solid",
+        "outlineWidth": "2px",
+        "boxShadow": "oklab(0.667456 0.250572 -0.0201303 / 0.85) 0px 18px 34px -18px, rgba(255, 255, 2"
+      },
+      "animations": 50,
+      "overflowX": false,
+      "plate": {
+        "top": 331,
+        "bottom": 679.6,
+        "left": 817.3,
+        "right": 1384.8,
+        "w": 567.6,
+        "h": 348.5
+      },
+      "hero": {
+        "top": 76,
+        "bottom": 900
+      },
+      "parallax": {
+        "pxBefore": "0",
+        "pxAfter": "0.320",
+        "spBefore": "0",
+        "spAfter": "0.690",
+        "scrolled": true,
+        "pointerFine": true
+      }
+    },
+    "reducedMotion": {
+      "rm": true,
+      "animations": 0,
+      "theme": "dark"
+    }
+  }
+]

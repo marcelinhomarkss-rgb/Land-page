@@ -1,0 +1,1089 @@
+{
+  "shots": [
+    {
+      "spec": {
+        "name": "n1-desktop-dark",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=dark&static=1",
+        "width": 1440,
+        "height": 900
+      },
+      "metrics": {
+        "title": "B V3 · Neon Editorial (N1) — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "scroll": {
+          "w": 1440,
+          "h": 1314,
+          "clientW": 1440,
+          "clientH": 900
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 60,
+          "y": 632.3,
+          "w": 298.7,
+          "h": 58,
+          "top": 632.3,
+          "right": 358.7,
+          "bottom": 690.3,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 384.7,
+          "y": 639.3,
+          "w": 174.9,
+          "h": 44,
+          "top": 639.3,
+          "right": 559.6,
+          "bottom": 683.3,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n1-desktop-light",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=light&static=1",
+        "width": 1440,
+        "height": 900
+      },
+      "metrics": {
+        "title": "B V3 · Neon Editorial (N1) — Birth Hub 360° (laboratório)",
+        "theme": "light",
+        "rm": true,
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "scroll": {
+          "w": 1440,
+          "h": 1314,
+          "clientW": 1440,
+          "clientH": 900
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 60,
+          "y": 632.3,
+          "w": 298.7,
+          "h": 58,
+          "top": 632.3,
+          "right": 358.7,
+          "bottom": 690.3,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 384.7,
+          "y": 639.3,
+          "w": 174.9,
+          "h": 44,
+          "top": 639.3,
+          "right": 559.6,
+          "bottom": 683.3,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n1-mobile-dark",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=dark&static=1",
+        "width": 390,
+        "height": 844
+      },
+      "metrics": {
+        "title": "B V3 · Neon Editorial (N1) — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "scroll": {
+          "w": 390,
+          "h": 1276,
+          "clientW": 390,
+          "clientH": 844
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 397.3,
+          "w": 350,
+          "h": 56,
+          "top": 397.3,
+          "right": 370,
+          "bottom": 453.3,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 455.3,
+          "w": 174.9,
+          "h": 44,
+          "top": 455.3,
+          "right": 194.9,
+          "bottom": 499.3,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n1-mobile-light",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=light&static=1",
+        "width": 390,
+        "height": 844
+      },
+      "metrics": {
+        "title": "B V3 · Neon Editorial (N1) — Birth Hub 360° (laboratório)",
+        "theme": "light",
+        "rm": true,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "scroll": {
+          "w": 390,
+          "h": 1276,
+          "clientW": 390,
+          "clientH": 844
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 397.3,
+          "w": 350,
+          "h": 56,
+          "top": 397.3,
+          "right": 370,
+          "bottom": 453.3,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 455.3,
+          "w": 174.9,
+          "h": 44,
+          "top": 455.3,
+          "right": 194.9,
+          "bottom": 499.3,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-desktop-dark",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=dark&static=1",
+        "width": 1440,
+        "height": 900
+      },
+      "metrics": {
+        "title": "B V3 · N2 Neon Cinematic — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "scroll": {
+          "w": 1440,
+          "h": 1314,
+          "clientW": 1440,
+          "clientH": 900
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 60,
+          "y": 628.7,
+          "w": 298.7,
+          "h": 58,
+          "top": 628.7,
+          "right": 358.7,
+          "bottom": 686.7,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 384.7,
+          "y": 635.7,
+          "w": 174.9,
+          "h": 44,
+          "top": 635.7,
+          "right": 559.6,
+          "bottom": 679.7,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-desktop-light",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=light&static=1",
+        "width": 1440,
+        "height": 900
+      },
+      "metrics": {
+        "title": "B V3 · N2 Neon Cinematic — Birth Hub 360° (laboratório)",
+        "theme": "light",
+        "rm": true,
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "scroll": {
+          "w": 1440,
+          "h": 1314,
+          "clientW": 1440,
+          "clientH": 900
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 60,
+          "y": 628.7,
+          "w": 298.7,
+          "h": 58,
+          "top": 628.7,
+          "right": 358.7,
+          "bottom": 686.7,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 384.7,
+          "y": 635.7,
+          "w": 174.9,
+          "h": 44,
+          "top": 635.7,
+          "right": 559.6,
+          "bottom": 679.7,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-mobile-dark",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=dark&static=1",
+        "width": 390,
+        "height": 844
+      },
+      "metrics": {
+        "title": "B V3 · N2 Neon Cinematic — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "scroll": {
+          "w": 390,
+          "h": 1331,
+          "clientW": 390,
+          "clientH": 844
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 397.3,
+          "w": 350,
+          "h": 56,
+          "top": 397.3,
+          "right": 370,
+          "bottom": 453.3,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 455.3,
+          "w": 174.9,
+          "h": 44,
+          "top": 455.3,
+          "right": 194.9,
+          "bottom": 499.3,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-mobile-light",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=light&static=1",
+        "width": 390,
+        "height": 844
+      },
+      "metrics": {
+        "title": "B V3 · N2 Neon Cinematic — Birth Hub 360° (laboratório)",
+        "theme": "light",
+        "rm": true,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "scroll": {
+          "w": 390,
+          "h": 1331,
+          "clientW": 390,
+          "clientH": 844
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 397.3,
+          "w": 350,
+          "h": 56,
+          "top": 397.3,
+          "right": 370,
+          "bottom": 453.3,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 455.3,
+          "w": 174.9,
+          "h": 44,
+          "top": 455.3,
+          "right": 194.9,
+          "bottom": 499.3,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-desktop-dark",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=dark&static=1",
+        "width": 1440,
+        "height": 900
+      },
+      "metrics": {
+        "title": "B V3 · Neon Signature — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "scroll": {
+          "w": 1440,
+          "h": 1296,
+          "clientW": 1440,
+          "clientH": 900
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 57.6,
+          "y": 708.2,
+          "w": 299.9,
+          "h": 58,
+          "top": 708.2,
+          "right": 357.5,
+          "bottom": 766.2,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 381.5,
+          "y": 715.2,
+          "w": 174.9,
+          "h": 44,
+          "top": 715.2,
+          "right": 556.4,
+          "bottom": 759.2,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-desktop-light",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=light&static=1",
+        "width": 1440,
+        "height": 900
+      },
+      "metrics": {
+        "title": "B V3 · Neon Signature — Birth Hub 360° (laboratório)",
+        "theme": "light",
+        "rm": true,
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "scroll": {
+          "w": 1440,
+          "h": 1296,
+          "clientW": 1440,
+          "clientH": 900
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 57.6,
+          "y": 708.2,
+          "w": 299.9,
+          "h": 58,
+          "top": 708.2,
+          "right": 357.5,
+          "bottom": 766.2,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 381.5,
+          "y": 715.2,
+          "w": 174.9,
+          "h": 44,
+          "top": 715.2,
+          "right": 556.4,
+          "bottom": 759.2,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-mobile-dark",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=dark&static=1",
+        "width": 390,
+        "height": 844
+      },
+      "metrics": {
+        "title": "B V3 · Neon Signature — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "scroll": {
+          "w": 390,
+          "h": 1352,
+          "clientW": 390,
+          "clientH": 844
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 427.4,
+          "w": 350,
+          "h": 56,
+          "top": 427.4,
+          "right": 370,
+          "bottom": 483.4,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 493.4,
+          "w": 350,
+          "h": 44,
+          "top": 493.4,
+          "right": 370,
+          "bottom": 537.4,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-mobile-light",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=light&static=1",
+        "width": 390,
+        "height": 844
+      },
+      "metrics": {
+        "title": "B V3 · Neon Signature — Birth Hub 360° (laboratório)",
+        "theme": "light",
+        "rm": true,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "scroll": {
+          "w": 390,
+          "h": 1352,
+          "clientW": 390,
+          "clientH": 844
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 427.4,
+          "w": 350,
+          "h": 56,
+          "top": 427.4,
+          "right": 370,
+          "bottom": 483.4,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 493.4,
+          "w": 350,
+          "h": 44,
+          "top": 493.4,
+          "right": 370,
+          "bottom": 537.4,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n1-tablet-dark",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=dark&static=1",
+        "width": 768,
+        "height": 1024
+      },
+      "metrics": {
+        "title": "B V3 · Neon Editorial (N1) — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 768,
+          "h": 1024
+        },
+        "scroll": {
+          "w": 768,
+          "h": 1437,
+          "clientW": 768,
+          "clientH": 1024
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 472,
+          "w": 728,
+          "h": 56,
+          "top": 472,
+          "right": 748,
+          "bottom": 528,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 530,
+          "w": 174.9,
+          "h": 44,
+          "top": 530,
+          "right": 194.9,
+          "bottom": 574,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-tablet-dark",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=dark&static=1",
+        "width": 768,
+        "height": 1024
+      },
+      "metrics": {
+        "title": "B V3 · N2 Neon Cinematic — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 768,
+          "h": 1024
+        },
+        "scroll": {
+          "w": 768,
+          "h": 1501,
+          "clientW": 768,
+          "clientH": 1024
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 472,
+          "w": 728,
+          "h": 56,
+          "top": 472,
+          "right": 748,
+          "bottom": 528,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 530,
+          "w": 174.9,
+          "h": 44,
+          "top": 530,
+          "right": 194.9,
+          "bottom": 574,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-tablet-dark",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=dark&static=1",
+        "width": 768,
+        "height": 1024
+      },
+      "metrics": {
+        "title": "B V3 · Neon Signature — Birth Hub 360° (laboratório)",
+        "theme": "dark",
+        "rm": true,
+        "viewport": {
+          "w": 768,
+          "h": 1024
+        },
+        "scroll": {
+          "w": 768,
+          "h": 1488,
+          "clientW": 768,
+          "clientH": 1024
+        },
+        "overflowX": false,
+        "h1": "Dados que conectam. Inteligência que decide. Execução que acontece.",
+        "cta": {
+          "x": 20,
+          "y": 528,
+          "w": 728,
+          "h": 56,
+          "top": 528,
+          "right": 748,
+          "bottom": 584,
+          "text": "Agendar demonstração"
+        },
+        "secondary": {
+          "x": 20,
+          "y": 594,
+          "w": 728,
+          "h": 44,
+          "top": 594,
+          "right": 748,
+          "bottom": 638,
+          "text": "Conhecer os 11 módulos"
+        },
+        "fonts": [
+          {
+            "family": "Sora",
+            "status": "loaded"
+          },
+          {
+            "family": "Inter",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "unloaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          },
+          {
+            "family": "IBM Plex Mono",
+            "status": "loaded"
+          }
+        ]
+      }
+    }
+  ],
+  "motion": [
+    {
+      "spec": {
+        "name": "n1-motion-desktop-dark",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=dark",
+        "width": 1440,
+        "height": 900,
+        "duration": 5200
+      },
+      "result": {
+        "frames": 103,
+        "dir": "shots-n\\n1-motion-desktop-dark"
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-motion-desktop-dark",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=dark",
+        "width": 1440,
+        "height": 900,
+        "duration": 5600
+      },
+      "result": {
+        "frames": 60,
+        "dir": "shots-n\\n2-motion-desktop-dark"
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-motion-desktop-dark",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=dark",
+        "width": 1440,
+        "height": 900,
+        "duration": 5600
+      },
+      "result": {
+        "frames": 127,
+        "dir": "shots-n\\n3-motion-desktop-dark"
+      }
+    },
+    {
+      "spec": {
+        "name": "n1-motion-mobile-dark",
+        "url": "http://localhost:5400/concept-n1/index.html?theme=dark",
+        "width": 390,
+        "height": 844,
+        "duration": 5200
+      },
+      "result": {
+        "frames": 145,
+        "dir": "shots-n\\n1-motion-mobile-dark"
+      }
+    },
+    {
+      "spec": {
+        "name": "n2-motion-mobile-dark",
+        "url": "http://localhost:5400/concept-n2/index.html?theme=dark",
+        "width": 390,
+        "height": 844,
+        "duration": 5200
+      },
+      "result": {
+        "frames": 222,
+        "dir": "shots-n\\n2-motion-mobile-dark"
+      }
+    },
+    {
+      "spec": {
+        "name": "n3-motion-mobile-dark",
+        "url": "http://localhost:5400/concept-n3/index.html?theme=dark",
+        "width": 390,
+        "height": 844,
+        "duration": 5200
+      },
+      "result": {
+        "frames": 296,
+        "dir": "shots-n\\n3-motion-mobile-dark"
+      }
+    }
+  ]
+}

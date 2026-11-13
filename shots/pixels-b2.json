@@ -1,0 +1,190 @@
+﻿[
+    {
+        "file":  "b2-desktop-dark.png",
+        "width":  1440,
+        "height":  900,
+        "samples":  51840,
+        "meanR":  46.9,
+        "meanG":  45.4,
+        "meanB":  56.3,
+        "nearBlackPct":  32.53,
+        "nearWhitePct":  0,
+        "darkPct":  85.01,
+        "lightPct":  7.93,
+        "neonSamples":  {
+                            "cyan":  18,
+                            "pink":  46,
+                            "gold":  54,
+                            "iris":  1429
+                        },
+        "neonPct":  {
+                        "cyan":  0.03,
+                        "pink":  0.09,
+                        "gold":  0.1,
+                        "iris":  2.76
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  27161,
+                                 "color":  "000000"
+                             },
+                             {
+                                 "count":  7241,
+                                 "color":  "000020"
+                             },
+                             {
+                                 "count":  3903,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  3510,
+                                 "color":  "202020"
+                             },
+                             {
+                                 "count":  2987,
+                                 "color":  "200020"
+                             }
+                         ]
+    },
+    {
+        "file":  "b2-desktop-light.png",
+        "width":  1440,
+        "height":  900,
+        "samples":  51840,
+        "meanR":  216.4,
+        "meanG":  217.7,
+        "meanB":  233.1,
+        "nearBlackPct":  0.01,
+        "nearWhitePct":  52.98,
+        "darkPct":  7.63,
+        "lightPct":  85.63,
+        "neonSamples":  {
+                            "cyan":  12,
+                            "pink":  39,
+                            "gold":  19,
+                            "iris":  2376
+                        },
+        "neonPct":  {
+                        "cyan":  0.02,
+                        "pink":  0.08,
+                        "gold":  0.04,
+                        "iris":  4.58
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  41056,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  3845,
+                                 "color":  "002040"
+                             },
+                             {
+                                 "count":  1931,
+                                 "color":  "C0C0E0"
+                             },
+                             {
+                                 "count":  1070,
+                                 "color":  "4040C0"
+                             },
+                             {
+                                 "count":  835,
+                                 "color":  "A0A0C0"
+                             }
+                         ]
+    },
+    {
+        "file":  "b2-mobile-dark.png",
+        "width":  780,
+        "height":  1688,
+        "samples":  146380,
+        "meanR":  56.5,
+        "meanG":  56.2,
+        "meanB":  66.3,
+        "nearBlackPct":  34.42,
+        "nearWhitePct":  0.01,
+        "darkPct":  79.56,
+        "lightPct":  13.14,
+        "neonSamples":  {
+                            "cyan":  228,
+                            "pink":  169,
+                            "gold":  328,
+                            "iris":  4614
+                        },
+        "neonPct":  {
+                        "cyan":  0.16,
+                        "pink":  0.12,
+                        "gold":  0.22,
+                        "iris":  3.15
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  88049,
+                                 "color":  "000000"
+                             },
+                             {
+                                 "count":  17775,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  12057,
+                                 "color":  "200020"
+                             },
+                             {
+                                 "count":  7489,
+                                 "color":  "000020"
+                             },
+                             {
+                                 "count":  4872,
+                                 "color":  "202020"
+                             }
+                         ]
+    },
+    {
+        "file":  "b2-mobile-light.png",
+        "width":  780,
+        "height":  1688,
+        "samples":  146380,
+        "meanR":  207.6,
+        "meanG":  209.8,
+        "meanB":  225.3,
+        "nearBlackPct":  0.06,
+        "nearWhitePct":  63.94,
+        "darkPct":  12.32,
+        "lightPct":  80.19,
+        "neonSamples":  {
+                            "cyan":  151,
+                            "pink":  57,
+                            "gold":  104,
+                            "iris":  6525
+                        },
+        "neonPct":  {
+                        "cyan":  0.1,
+                        "pink":  0.04,
+                        "gold":  0.07,
+                        "iris":  4.46
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  110534,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  17243,
+                                 "color":  "002040"
+                             },
+                             {
+                                 "count":  2946,
+                                 "color":  "C0C0E0"
+                             },
+                             {
+                                 "count":  2786,
+                                 "color":  "4040C0"
+                             },
+                             {
+                                 "count":  2227,
+                                 "color":  "A0A0C0"
+                             }
+                         ]
+    }
+]

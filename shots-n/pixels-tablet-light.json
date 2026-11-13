@@ -1,0 +1,143 @@
+﻿[
+    {
+        "file":  "n1-tablet-light.png",
+        "width":  768,
+        "height":  1024,
+        "samples":  87552,
+        "meanR":  150.4,
+        "meanG":  146.5,
+        "meanB":  165.1,
+        "nearBlackPct":  0.01,
+        "nearWhitePct":  29.4,
+        "darkPct":  34.64,
+        "lightPct":  50.61,
+        "neonSamples":  {
+                            "cyan":  117,
+                            "pink":  56,
+                            "gold":  58,
+                            "iris":  4040
+                        },
+        "neonPct":  {
+                        "cyan":  0.13,
+                        "pink":  0.06,
+                        "gold":  0.07,
+                        "iris":  4.61
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  39428,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  14709,
+                                 "color":  "000000"
+                             },
+                             {
+                                 "count":  6634,
+                                 "color":  "000020"
+                             },
+                             {
+                                 "count":  4130,
+                                 "color":  "A00040"
+                             },
+                             {
+                                 "count":  2639,
+                                 "color":  "000040"
+                             }
+                         ]
+    },
+    {
+        "file":  "n2-tablet-light.png",
+        "width":  768,
+        "height":  1024,
+        "samples":  87552,
+        "meanR":  148.2,
+        "meanG":  136.3,
+        "meanB":  159.2,
+        "nearBlackPct":  0.19,
+        "nearWhitePct":  17.18,
+        "darkPct":  32.34,
+        "lightPct":  47.02,
+        "neonSamples":  {
+                            "cyan":  53,
+                            "pink":  7079,
+                            "gold":  3,
+                            "iris":  3642
+                        },
+        "neonPct":  {
+                        "cyan":  0.06,
+                        "pink":  8.09,
+                        "gold":  0,
+                        "iris":  4.16
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  34627,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  20551,
+                                 "color":  "000000"
+                             },
+                             {
+                                 "count":  5031,
+                                 "color":  "000020"
+                             },
+                             {
+                                 "count":  2578,
+                                 "color":  "E040A0"
+                             },
+                             {
+                                 "count":  2556,
+                                 "color":  "C00060"
+                             }
+                         ]
+    },
+    {
+        "file":  "n3-tablet-light.png",
+        "width":  768,
+        "height":  1024,
+        "samples":  87552,
+        "meanR":  160,
+        "meanG":  155.2,
+        "meanB":  169.5,
+        "nearBlackPct":  17.78,
+        "nearWhitePct":  25.81,
+        "darkPct":  29.65,
+        "lightPct":  56.11,
+        "neonSamples":  {
+                            "cyan":  224,
+                            "pink":  4464,
+                            "gold":  54,
+                            "iris":  2968
+                        },
+        "neonPct":  {
+                        "cyan":  0.26,
+                        "pink":  5.1,
+                        "gold":  0.06,
+                        "iris":  3.39
+                    },
+        "topQuantized":  [
+                             {
+                                 "count":  41803,
+                                 "color":  "E0E0E0"
+                             },
+                             {
+                                 "count":  21481,
+                                 "color":  "000000"
+                             },
+                             {
+                                 "count":  4132,
+                                 "color":  "E02080"
+                             },
+                             {
+                                 "count":  3278,
+                                 "color":  "C0E0E0"
+                             },
+                             {
+                                 "count":  2338,
+                                 "color":  "0060A0"
+                             }
+                         ]
+    }
+]
