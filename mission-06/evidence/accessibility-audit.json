@@ -1,0 +1,452 @@
+[
+  {
+    "theme": "dark",
+    "contrasts": [
+      {
+        "selector": ".r1 .w",
+        "ratio": 10.98,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".r2 .w",
+        "ratio": 5.99,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(139, 125, 255)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".r3 .w",
+        "ratio": 11.92,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".r1 .tag",
+        "ratio": 10.98,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".r2 .tag",
+        "ratio": 5.99,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(139, 125, 255)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".r3 .tag",
+        "ratio": 11.92,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".lead",
+        "ratio": 12.69,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(200, 208, 238)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".primary",
+        "ratio": 5.65,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(13, 13, 13)",
+        "bg": "rgb(255, 45, 155)"
+      },
+      {
+        "selector": ".secondary",
+        "ratio": 17.84,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(13, 13, 13)"
+      },
+      {
+        "selector": ".orbit-caption",
+        "ratio": 9.96,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(20, 24, 40)"
+      },
+      {
+        "selector": ".p-bar strong",
+        "ratio": 16.05,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(21, 25, 40)"
+      },
+      {
+        "selector": ".sim",
+        "ratio": 10.72,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(21, 25, 40)"
+      },
+      {
+        "selector": ".track [aria-current=\"step\"]",
+        "ratio": 17,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".opp h2",
+        "ratio": 10.46,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".chips span:first-child",
+        "ratio": 16.05,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(21, 25, 40)"
+      },
+      {
+        "selector": ".chips .pending",
+        "ratio": 11.36,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".ia h3",
+        "ratio": 8.94,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(180, 170, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".ia p",
+        "ratio": 17,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".replay",
+        "ratio": 16.05,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(21, 25, 40)"
+      }
+    ],
+    "allContrastPass": true,
+    "interactive": [
+      {
+        "selector": ".brand",
+        "w": 180.8,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": ".theme",
+        "w": 44,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": ".primary",
+        "w": 283.9,
+        "h": 56,
+        "pass44": true
+      },
+      {
+        "selector": ".secondary",
+        "w": 179,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": ".replay",
+        "w": 178.6,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": "#modules summary",
+        "w": 1319.1,
+        "h": 48,
+        "pass44": true
+      },
+      {
+        "selector": ".motion",
+        "w": 153.8,
+        "h": 44,
+        "pass44": true
+      }
+    ],
+    "allTouchTargetsPass": true,
+    "landmarks": {
+      "header": true,
+      "nav": true,
+      "main": true,
+      "heroSection": true,
+      "footer": true,
+      "skipLink": true
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Dadosque conectam.Inteligênciaque decide.Execuçãoq"
+      },
+      {
+        "tag": "H2",
+        "text": "Oportunidade #1042"
+      },
+      {
+        "tag": "H3",
+        "text": "Copiloto IA Próxima ação"
+      }
+    ]
+  },
+  {
+    "theme": "light",
+    "contrasts": [
+      {
+        "selector": ".r1 .w",
+        "ratio": 10.53,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(13, 18, 34)"
+      },
+      {
+        "selector": ".r2 .w",
+        "ratio": 5.75,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(139, 125, 255)",
+        "bg": "rgb(13, 18, 34)"
+      },
+      {
+        "selector": ".r3 .w",
+        "ratio": 11.43,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(13, 18, 34)"
+      },
+      {
+        "selector": ".r1 .tag",
+        "ratio": 10.53,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(13, 18, 34)"
+      },
+      {
+        "selector": ".r2 .tag",
+        "ratio": 5.75,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(139, 125, 255)",
+        "bg": "rgb(13, 18, 34)"
+      },
+      {
+        "selector": ".r3 .tag",
+        "ratio": 11.43,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(13, 18, 34)"
+      },
+      {
+        "selector": ".lead",
+        "ratio": 9.39,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(51, 64, 106)",
+        "bg": "rgb(244, 247, 251)"
+      },
+      {
+        "selector": ".primary",
+        "ratio": 5.65,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(13, 13, 13)",
+        "bg": "rgb(255, 45, 155)"
+      },
+      {
+        "selector": ".secondary",
+        "ratio": 14.16,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(25, 35, 74)",
+        "bg": "rgb(244, 247, 251)"
+      },
+      {
+        "selector": ".orbit-caption",
+        "ratio": 9.96,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(20, 24, 40)"
+      },
+      {
+        "selector": ".p-bar strong",
+        "ratio": 16.05,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(21, 25, 40)"
+      },
+      {
+        "selector": ".sim",
+        "ratio": 10.72,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(21, 25, 40)"
+      },
+      {
+        "selector": ".track [aria-current=\"step\"]",
+        "ratio": 17,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".opp h2",
+        "ratio": 10.46,
+        "required": 3,
+        "pass": true,
+        "fg": "rgb(0, 212, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".chips span:first-child",
+        "ratio": 16.05,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(21, 25, 40)"
+      },
+      {
+        "selector": ".chips .pending",
+        "ratio": 11.36,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(255, 193, 7)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".ia h3",
+        "ratio": 8.94,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(180, 170, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".ia p",
+        "ratio": 17,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(16, 19, 30)"
+      },
+      {
+        "selector": ".replay",
+        "ratio": 16.05,
+        "required": 4.5,
+        "pass": true,
+        "fg": "rgb(242, 245, 255)",
+        "bg": "rgb(21, 25, 40)"
+      }
+    ],
+    "allContrastPass": true,
+    "interactive": [
+      {
+        "selector": ".brand",
+        "w": 180.8,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": ".theme",
+        "w": 44,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": ".primary",
+        "w": 283.9,
+        "h": 56,
+        "pass44": true
+      },
+      {
+        "selector": ".secondary",
+        "w": 179,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": ".replay",
+        "w": 178.6,
+        "h": 44,
+        "pass44": true
+      },
+      {
+        "selector": "#modules summary",
+        "w": 1319.1,
+        "h": 48,
+        "pass44": true
+      },
+      {
+        "selector": ".motion",
+        "w": 153.8,
+        "h": 44,
+        "pass44": true
+      }
+    ],
+    "allTouchTargetsPass": true,
+    "landmarks": {
+      "header": true,
+      "nav": true,
+      "main": true,
+      "heroSection": true,
+      "footer": true,
+      "skipLink": true
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Dadosque conectam.Inteligênciaque decide.Execuçãoq"
+      },
+      {
+        "tag": "H2",
+        "text": "Oportunidade #1042"
+      },
+      {
+        "tag": "H3",
+        "text": "Copiloto IA Próxima ação"
+      }
+    ]
+  }
+]

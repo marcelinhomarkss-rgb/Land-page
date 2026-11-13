@@ -1,0 +1,198 @@
+[
+  {
+    "alternative": "Alt A",
+    "size": "desktop",
+    "collision": false,
+    "overflow": false,
+    "ctaAboveFold": true,
+    "allContrastPass": true,
+    "words": [
+      {
+        "text": "Dados",
+        "color": "rgb(0, 212, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 85.5,
+          "y": 131,
+          "w": 369.6,
+          "h": 111,
+          "right": 455.1
+        },
+        "clipped": false
+      },
+      {
+        "text": "Inteligência",
+        "color": "rgb(139, 125, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 85.5,
+          "y": 263,
+          "w": 407.2,
+          "h": 66.3,
+          "right": 492.7
+        },
+        "clipped": false
+      },
+      {
+        "text": "Execução",
+        "color": "rgb(255, 193, 7)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 85.5,
+          "y": 353.4,
+          "w": 429.3,
+          "h": 86.6,
+          "right": 514.8
+        },
+        "clipped": false
+      }
+    ]
+  },
+  {
+    "alternative": "Alt A",
+    "size": "mobile",
+    "collision": false,
+    "overflow": false,
+    "ctaAboveFold": true,
+    "allContrastPass": true,
+    "words": [
+      {
+        "text": "Dados",
+        "color": "rgb(0, 212, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 35,
+          "y": 97,
+          "w": 168.5,
+          "h": 50.6,
+          "right": 203.5
+        },
+        "clipped": false
+      },
+      {
+        "text": "Inteligência",
+        "color": "rgb(139, 125, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 35,
+          "y": 165.2,
+          "w": 207.1,
+          "h": 33.7,
+          "right": 242.1
+        },
+        "clipped": false
+      },
+      {
+        "text": "Execução",
+        "color": "rgb(255, 193, 7)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 35,
+          "y": 219.4,
+          "w": 203.5,
+          "h": 41.1,
+          "right": 238.5
+        },
+        "clipped": false
+      }
+    ]
+  },
+  {
+    "alternative": "Alt B",
+    "size": "desktop",
+    "collision": false,
+    "overflow": false,
+    "ctaAboveFold": true,
+    "allContrastPass": false,
+    "words": [
+      {
+        "text": "Dados",
+        "color": "rgb(0, 212, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 60.5,
+          "y": 112,
+          "w": 423.5,
+          "h": 134.2,
+          "right": 484
+        },
+        "clipped": false
+      },
+      {
+        "text": "Inteligência",
+        "color": "rgb(139, 125, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 60.5,
+          "y": 256.2,
+          "w": 440.2,
+          "h": 81,
+          "right": 500.7
+        },
+        "clipped": false
+      },
+      {
+        "text": "Execução",
+        "color": "rgb(255, 193, 7)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 60.5,
+          "y": 347.2,
+          "w": 471.8,
+          "h": 105.2,
+          "right": 532.3
+        },
+        "clipped": false
+      }
+    ]
+  },
+  {
+    "alternative": "Alt B",
+    "size": "mobile",
+    "collision": false,
+    "overflow": false,
+    "ctaAboveFold": true,
+    "allContrastPass": false,
+    "words": [
+      {
+        "text": "Dados",
+        "color": "rgb(0, 212, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 18,
+          "y": 82,
+          "w": 189.8,
+          "h": 60.6,
+          "right": 207.8
+        },
+        "clipped": false
+      },
+      {
+        "text": "Inteligência",
+        "color": "rgb(139, 125, 255)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 18,
+          "y": 152.6,
+          "w": 222,
+          "h": 41.1,
+          "right": 240
+        },
+        "clipped": false
+      },
+      {
+        "text": "Execução",
+        "color": "rgb(255, 193, 7)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rect": {
+          "x": 18,
+          "y": 203.7,
+          "w": 221.2,
+          "h": 49.6,
+          "right": 239.2
+        },
+        "clipped": false
+      }
+    ]
+  }
+]

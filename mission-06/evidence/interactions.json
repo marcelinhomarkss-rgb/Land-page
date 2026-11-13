@@ -1,0 +1,28 @@
+{
+  "themeToggle": {
+    "before": "dark",
+    "after": "light",
+    "changed": true,
+    "ariaPressed": "false"
+  },
+  "focusCTA": {
+    "activeElement": true,
+    "outlineStyle": "solid",
+    "outlineWidth": "3px"
+  },
+  "modulesExpand": {
+    "open": true,
+    "count": 11
+  },
+  "replaySequence": {
+    "playing": true,
+    "status": "1/3 · Sincronizando dados 360°",
+    "activeAnimations": 18
+  },
+  "reducedMotion": {
+    "reducedClass": true,
+    "ariaPressed": "true",
+    "activeAnimations": 0,
+    "status": "Sequência completa · sem movimento"
+  }
+}
